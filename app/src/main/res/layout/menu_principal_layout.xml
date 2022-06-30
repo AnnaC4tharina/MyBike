@@ -23,7 +23,7 @@
         android:orientation="horizontal">
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/cardclient"
+            android:id="@+id/cardClient"
             android:layout_width="190dp"
             android:layout_height="190dp"
             android:layout_margin="8dp"
@@ -95,7 +95,7 @@
         android:orientation="horizontal">
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/cardClient"
+            android:id="@+id/cardManutencao"
             android:layout_width="190dp"
             android:layout_height="190dp"
             android:layout_margin="8dp"
@@ -127,7 +127,7 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/cardreservation"
+            android:id="@+id/cardSales"
             android:layout_width="190dp"
             android:layout_height="190dp"
             android:layout_margin="8dp"
